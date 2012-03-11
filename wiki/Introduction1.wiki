@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+#labels Phase-Design
+
+= Introduction =
+
+  python + webpy搭建的爬虫，用于镜像海盗湾。
+  Demo在dotcloud上:
+  www.simpletpb.co.cc
+
+
+= Details =
